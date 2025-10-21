@@ -1,3 +1,3 @@
-imort streamlit as st
+import streamlit as st
 st.header("mon application")
 st.write("Hamilton")
